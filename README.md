@@ -5,7 +5,7 @@ This is just a fictional business website to create a sort of template or unders
 
 ## Step 1: Clone the Repository
 ```sh
-git clone [[repository-url]](https://github.com/manulea/FictionalBusinessWebsite.git)
+git clone https://github.com/manulea/FictionalBusinessWebsite.git
 cd my-svelte-app
 ```
 
